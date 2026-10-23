@@ -1,0 +1,1 @@
+import{n as e,p as t}from"./movimiento.BEXbt99D.js";t.matchMedia().add(e,()=>{for(let e of t.utils.toArray(`[data-canales-fila]`)){let n=Number(e.dataset.sentido);t.fromTo(e,{xPercent:n<0?0:-33},{xPercent:n<0?-33:0,ease:`none`,scrollTrigger:{trigger:e,start:`top bottom`,end:`bottom top`,scrub:.4}})}});

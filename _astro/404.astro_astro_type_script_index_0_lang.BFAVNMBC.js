@@ -1,0 +1,1 @@
+import{n as e,p as t}from"./movimiento.BEXbt99D.js";t.matchMedia().add(e,()=>{t.to(`[data-error-linea]`,{strokeDashoffset:-76,duration:1.2,ease:`none`,repeat:-1}),t.fromTo(`[data-error-coche]`,{rotation:28,svgOrigin:`0 0`},{rotation:36,duration:.18,yoyo:!0,repeat:-1,repeatDelay:1.6,ease:`power1.inOut`})});

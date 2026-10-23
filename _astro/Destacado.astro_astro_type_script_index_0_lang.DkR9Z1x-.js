@@ -1,0 +1,1 @@
+import{i as e,n as t,p as n}from"./movimiento.BEXbt99D.js";n.matchMedia().add(`${t} and ${e}`,()=>{for(let e of n.utils.toArray(`[data-destacado-media]`))n.fromTo(e,{y:40},{y:-30,ease:`none`,scrollTrigger:{trigger:e,start:`top bottom`,end:`bottom top`,scrub:!0}})});

@@ -1,0 +1,1 @@
+import{d as e,n as t,p as n}from"./movimiento.BEXbt99D.js";n.matchMedia().add(t,()=>{let t=n.utils.toArray(`[data-frase]`).map(t=>{let r=e.create(t,{type:`words`});return n.fromTo(r.words,{opacity:.12},{opacity:1,stagger:.1,ease:`none`,scrollTrigger:{trigger:t,start:`top 80%`,end:`bottom 45%`,scrub:!0}}),r});return()=>t.forEach(e=>e.revert())});

@@ -1,0 +1,1 @@
+import{d as e,n as t,p as n}from"./movimiento.BEXbt99D.js";n.matchMedia().add(t,()=>{let t=document.querySelector(`[data-pie-lema]`),r=e.create(t,{type:`chars`});return n.fromTo(r.chars,{yPercent:110},{yPercent:0,stagger:.03,ease:`power3.out`,scrollTrigger:{trigger:t,start:`top bottom`,end:`bottom 92%`,scrub:.8}}),()=>r.revert()});
